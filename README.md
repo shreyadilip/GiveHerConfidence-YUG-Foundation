@@ -1,1 +1,1 @@
-# -GiveHerConfidence-YUG-Foundation
+# GiveHerConfidence: YUG Foundation
