@@ -9,5 +9,14 @@
 - Menstrual Education: To break taboos and educate, they distribute "Menstrupedia" - a resource that provides informative and appropriate content on menstrual hygiene management.
 - They conduct awareness sessions for girls and their communities to raise awareness about menstrual hygiene.
 
-## About the App
+## Saakhi : About the App
 ### In India, the topic of menstruation has been a taboo till date. Most girls lack sufficient information about the physical and emotional changes they go through in this phase. While on-ground campaigns have helped spread information, most girls lack day-to-day support. The app aims to adress these concerns and assist girls in providing access to the right information and resources, and bursting myths.
+
+
+## Features
+### 
+- Period Tracker
+- SaakhiChatbot: A multilingual chatbot that can be used to burst various myths, provide information on pain management and different kinds of sanitary products, etc.
+- Assists in locating nearby pharmacies and doctors
+- Provide access to informational videos on sex education and contraception
+- Provide support to collect data like feedback from school visits and provides analysis
